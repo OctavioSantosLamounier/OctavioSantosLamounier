@@ -10,11 +10,11 @@ e pesquisa científica.
 </p>
 
 ##### 🌱 Estudante de Ciência da Computação.
-##### ⚡ Focado em programação competitiva e resolução de problemas.
-##### 🔍 Interessado em teoria dos grafos, estrutura de dados e algoritmos.
-##### 📚 Desenvolvendo pesquisas sobre programação dinâmica e o Problema do Caixeiro Viajante.
+##### ⚡ Focado em Programação Competitiva e resolução de problemas.
+##### 🔍 Interessado em Teoria dos Grafos, Estrutura de Dados e Algoritmos.
+##### 📚 Desenvolvendo pesquisas sobre Programação Dinâmica e o Problema do Caixeiro Viajante.
 
----
+<h1></h1>
 
 ### 🛠️ Linguagens e ferramentas
 ---
