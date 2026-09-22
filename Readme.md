@@ -1,7 +1,7 @@
 # 👨🏻‍💻Octávio S. Lamounier
 
 <p>
-Tenho 23 anos e sou estudante de Ciência da Computação na 
+Olá, me chamo Octávio tenho 23 anos e atualmente sou estudante de Ciência da Computação na 
 <a href="https://portalufj.jatai.ufg.br">Universidade Federal de Jataí</a> 👨🏻‍🎓.
 Tenho grande interesse por programação competitiva, algoritmos, estruturas de dados
 e resolução de problemas computacionais.
